@@ -12,7 +12,6 @@
     --fonte3: 'Sriracha', cursive;
     --fonte4: "Dancing Script", cursive;
 }
-}
 *{ 
     margin: 0px;
     padding: 0px;
@@ -81,13 +80,13 @@ section.imagem > p{
 
 }
 section#img01{
-background-image: url('../background001.jpg'); 
+background-image: url('/imagens/background001.jpg'); 
 background-position: right center;
 
     
 }
 section#img02{
-  background-image: url('../background002.jpg');
+  background-image: url('/imagens/background002.jpg');
     background-position: right center;
     
 }
